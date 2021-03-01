@@ -1,6 +1,6 @@
 {
     "port": 5000,
     "jwtSecret": "andropovDV",
-    "mongoUri": "mongodb+srv://andropovdv:myH1tOo53@cluster0.9dnct.mongodb.net/app?retryWrites=true&w=majority",
+    "mongoUri": "mongodb+srv://andropovdv:xxxxxx@cluster0.9dnct.mongodb.net/app?retryWrites=true&w=majority",
     "baseUrl": "http://localhost:5000"
 }
